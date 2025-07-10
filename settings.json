@@ -1,5 +1,4 @@
 {
-  "workbench.colorTheme": "Aura Dracula Spirit (Soft)",
   "workbench.activityBar.location": "hidden",
   "workbench.iconTheme": "bearded-icons",
   "editor.fontFamily": "SF Mono",
@@ -40,14 +39,13 @@
   "editor.matchBrackets": "never",
   "editor.parameterHints.enabled": false,
   "editor.lightbulb.enabled": "off",
-  "editor.hover.enabled": false,
   "files.trimTrailingWhitespace": true,
   "files.insertFinalNewline": true,
   "scm.diffDecorations": "none",
   "editor.lineNumbers": "relative",
   "editor.tabSize": 2,
   "editor.detectIndentation": false,
-  "editor.showFoldingControls": "never",
+  "editor.showFoldingControls": "mouseover",
   "editor.guides.indentation": false,
   "editor.renderWhitespace": "none",
   "editor.renderLineHighlight": "none",
@@ -58,11 +56,11 @@
   "editor.overviewRulerBorder": false,
   "editor.hideCursorInOverviewRuler": true,
   "editor.quickSuggestions": {
-    "other": "off"
+    "other": true
   },
   "editor.suggestOnTriggerCharacters": false,
   "editor.tabCompletion": "on",
-  "editor.snippetSuggestions": "top",
+  "editor.snippetSuggestions": "bottom",
   "emmet.triggerExpansionOnTab": true,
   "files.autoSave": "afterDelay",
   "update.mode": "none",
@@ -133,5 +131,6 @@
     "markdown": false,
     "scminput": false
   },
-  "extensions.ignoreRecommendations": true
+  "extensions.ignoreRecommendations": true,
+  "workbench.colorTheme": "Aura Dracula Spirit (Soft)"
 }
